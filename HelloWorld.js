@@ -1,3 +1,6 @@
+/** Write a function in javascript createHelloWorld. It should return a new function that always returns "Hello World" */
+
+
 /**
  * @return {Function}
  */
