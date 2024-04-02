@@ -5,3 +5,5 @@ Checklist:
 
 - [x] Create Hello World Function
 - [x] Counter
+- [x] ToBeOrNotToBe
+- [x] CounterII
